@@ -10,7 +10,7 @@ Project Documentation: https://drive.google.com/drive/folders/1IL2n0IoxxeQPzQ3ME
 
 (For Slides, Report, Server Related Code, etc.)
 
-Contributors: Arya Keni, Samantha Van Seters, Brian Truong, Vincent Purr, Yuqi He 
+Contributors: Arya Keni, Samantha Van Seters, Brian Truong, Vincent Purr, Yuqi He, Jiye He
 
 CMPSC 442 Spring 2023, Penn State University Dept. of CS
 
