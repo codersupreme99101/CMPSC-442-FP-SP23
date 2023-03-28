@@ -4,6 +4,8 @@ Final Project for CMPSC 442 Spring 2023 Semester
 
 Topic: AI and Health (Group 1)
 
+This document also serves as a user manual. 
+
 Project: Binary Classification and Efficacy Evaluation of Brain Tumors using Open Source Grayscale MRIs via Convolutional Neural Network and Visual Geometry Group - 16 layered approaches
 
 Project Documentation: https://drive.google.com/drive/folders/1IL2n0IoxxeQPzQ3ME6R2u45WYUFdpOzX?usp=sharing
@@ -32,3 +34,10 @@ Implementation:
 TBF
 
 
+Ethical and Moral Considerations:
+
+TBF
+
+Social Implication:
+
+TBF
