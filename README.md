@@ -154,3 +154,7 @@ important in terms of clustering/grouping of certain attributes that the interme
 # Social Implications:
 
 This will benefit the medical community and communities of large populations in general, due to the effect this technology can have in potentially preventing and providing (a course of action) brain tumors in a general sense, for a broader range of physiological differences. This will speed up treatment timelines, and will provide a very unbiased and specifci second opinion at the least to any medical professional. 
+
+A Utopian outlook on this implication may mean the eventual learning and eradication plan generation that this AI can perform after sufficient training. This can directly translate to a potential cure for most of the neurological diseases and disorders stemming from physiological impairments, not just tumors. After the system trains on billions on parameters, image types, and classification specifics, it can be an unmatched model for medical diagnosis n modern neuroscience. 
+
+On the other hand, this system, though accurate within its on accord, can produce oversaturation and inept decision making skills at the hands of global professionals, leading to a dystopian reality where the ability for the future to accurately decide upon and eradicate/solve neurological conditions will diminish, or cause harm. Alternatively, the system may never learn any more due to its exceeding dependency, causing a halt in data science based biomedical applications in brain related diagnostics and imaging. 
