@@ -31,7 +31,7 @@ To utilize the code for this project, follow these steps from (1) through (10):
 
 (2) After the clone, navigate to the directory that this repository is stored in, and open the "code" folder
 
-(3) 
+(3) Open the .ipynb file with the phrase "cnn" and "vgg" in it, marking the 2 different types of Neural Net models for coding
 
 (4) 
 
@@ -64,12 +64,16 @@ Further explanation of high-level image diagrams can be found in the presentatio
 # Implementation:
 
 
-TBF
+Using Jupyter Notebooks and Google Colab, for enhanced GPU capabilities for shorter training times. Fully written in python, with the libraries: Keras, Tensorflow, Matplotlib, Numpy
+
+Implemented in code blocks, and file driectory of dataset accessed from the googl drive cloud. 
+
+Analysis of plots and charts done in same singular code file as training and validation, along with initialization of libraries. 
 
 
 # Algorithms Used:
 
-Using the Keras and Tensorflow libraries has provided custm and direct implementations of the following algorithms:
+Using the Keras and Tensorflow libraries has provided custom and direct implementations of the following algorithms:
 
 For NN (Neural NEtwork) Layers: 
 
