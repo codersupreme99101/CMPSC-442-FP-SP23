@@ -8,7 +8,7 @@ This document also serves as a user manual.
 
 # Project: Binary Classification and Efficacy Evaluation of Brain Tumors using Open Source Grayscale MRIs via Convolutional Neural Network and Visual Geometry Group - 16 layered approaches
 
-Project Documentation: https://drive.google.com/drive/folders/1IL2n0IoxxeQPzQ3ME6R2u45WYUFdpOzX?usp=sharing
+Project Documentation (other files): https://drive.google.com/drive/folders/1IL2n0IoxxeQPzQ3ME6R2u45WYUFdpOzX?usp=sharing
 
 (For Slides, Report, Server Related Code, etc.)
 
@@ -33,19 +33,19 @@ To utilize the code for this project, follow these steps from (1) through (10):
 
 (3) Open the .ipynb file with the phrase "cnn" and "vgg" in it, marking the 2 different types of Neural Net models for coding
 
-(4) 
+(4) Run the cell blocks in each file block by block sequentially, from the first block onwards.
 
-(5) 
+(5) For checking the result files, and plots/charts, check the "Results" folder in the downloaded directory. The presence of the "cnn" or "vgg" in the title of the file indicates the type of model the result is for, and the metric is present in the file name as well (and in the plot title, with the model). 
 
-(6) 
+(6) For the pip installs, refer to the "!pip" statements in the.ipynb file, which can be run within the file for dependencies. 
 
-(7) 
+(7) Make sure you are logged in to your google account for all the following operations, and allow access to your google drive for file access of data and results. (The system will auto-prompt for this).
 
-(8) 
+(8) Ensure that you are connected to a running instance by checking the right hand corner that mentions "connected" in green. This should automatically occur, and if not, it will in 3-4 minutes after a page refresh. 
 
-(9) 
+(9) Click "Runtime" and "Computing" on the top menu bar to check that the instance is connected to any CPU at least (or a GPU/TPU works better, if there is personal access to it). 
 
-(10) 
+(10) For any bugs/errors (which there should not be any), double check for any red underlines/red blocks in the code blocks, one-by-one, and edit to fix (since it may be typo, by user edit). 
 
 # Design:
 
