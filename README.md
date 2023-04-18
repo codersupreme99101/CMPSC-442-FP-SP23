@@ -25,7 +25,7 @@ This project concerns itself with binary classification of brain tumors via MRI 
 
 # Usage Instructions:
 
-To utilize the code for this project, follow these steps from (1) through (10): 
+The code is intuitive, and simple to use, with minimal dependencies and minimal hardware requirements. Both code files and datasets need some initial setup that is of the form of directory navigatio, and processing verification. To utilize the code for this project, follow these steps from (1) through (10): 
 
 (1) Clone this repository locally, or download it (through GitHub CLI, or the download .zip, or the SSH)
 
@@ -37,7 +37,7 @@ To utilize the code for this project, follow these steps from (1) through (10):
 
 (5) For checking the result files, and plots/charts, check the "Results" folder in the downloaded directory. The presence of the "cnn" or "vgg" in the title of the file indicates the type of model the result is for, and the metric is present in the file name as well (and in the plot title, with the model). 
 
-(6) For the pip installs, refer to the "!pip" statements in the.ipynb file, which can be run within the file for dependencies. 
+(6) For the pip installs, refer to the "!pip" statements in the .ipynb file, which can be run within the file for dependencies. 
 
 (7) Make sure you are logged in to your google account for all the following operations, and allow access to your google drive for file access of data and results. (The system will auto-prompt for this).
 
@@ -46,6 +46,14 @@ To utilize the code for this project, follow these steps from (1) through (10):
 (9) Click "Runtime" and "Computing" on the top menu bar to check that the instance is connected to any CPU at least (or a GPU/TPU works better, if there is personal access to it). 
 
 (10) For any bugs/errors (which there should not be any), double check for any red underlines/red blocks in the code blocks, one-by-one, and edit to fix (since it may be typo, by user edit). 
+
+It is also important to note to verify the dataset and additional files are correctly placed and accessible, so that the focus can be on the Machine Learning Processes in the .ipynb files. For this, to correctly navigate to the dataset and utilize that in the running code, follow steps (A) through (C):
+
+(A) Go to the Google Drive Folder and navigate to the Database folder. Download the full folder wiyh the Database superdirectory, as is. Unzip the folder, and drag and drop it into the main folder of the repository folder that is currently residing on your device. 
+
+(B) If wanted, upload all of these files packaged, to your personal google drive or online cloud base of choice, and navigate into this singular repository folder. 
+
+(C) In each .ipynb file, edit the pathway strings (given by "/.../.../.../" form, where the "..." indicates a certain file/folder direction) for the accesses to the 'Results' and the 'Database' folders (total of 4 such strings, in each file), such that the directory points from your drive to the correct location of the aforementioned folders. 
 
 # Design:
 
